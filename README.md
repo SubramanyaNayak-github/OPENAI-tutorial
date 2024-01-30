@@ -1,1 +1,1 @@
-# OPEN-AI-tutorial
+# OPENAI-tutorial
